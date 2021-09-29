@@ -1,0 +1,4 @@
+/home/wangzitu/01APP/clion-2020.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /home/wangzitu/02Project/webserver_sep/webserver_ed1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug

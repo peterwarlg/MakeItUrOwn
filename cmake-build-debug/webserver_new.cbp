@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="webserver_new"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="webserver_new">
+				<Option output="/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/webserver_new" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 webserver_new"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="webserver_new/fast">
+				<Option output="/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/webserver_new" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 webserver_new/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wangzitu/02Project/webserver_sep/webserver_ed1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/Epoll.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/GlobalVar.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/Http/HttpData.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/Http/HttpEnum.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/Http/HttpParse.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/Http/HttpRequest.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/Http/HttpResponse.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/Server.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/Socket/ClientSocket.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/Socket/ServerSocket.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/include/Util.h">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/main.cpp">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/src/Epoll.cpp">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/src/Http/HttpData.cpp">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/src/Http/HttpParse.cpp">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/src/Http/HttpRequest.cpp">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/src/Http/HttpResponse.cpp">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/src/Server.cpp">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/src/Socket/ClientSocket.cpp">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/src/Socket/ServerSocket.cpp">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/src/Util.cpp">
+			<Option target="webserver_new"/>
+		</Unit>
+		<Unit filename="/home/wangzitu/02Project/webserver_sep/webserver_ed1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
